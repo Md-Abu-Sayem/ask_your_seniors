@@ -119,5 +119,6 @@ One can perform several things like
   - block someone/particular type of blog ,
    etc.
    
-   *We will always try to update our features in order to make it more user friendly*
+   *We will always try to update our features in order to make it more user friendly*\
+   \
 ©️ ask_senoiors team
