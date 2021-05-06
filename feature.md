@@ -118,3 +118,6 @@ One can perform several things like
   - permit who can see his profile,
   - block someone/particular type of blog ,
    etc.
+   
+   *We will always try to update our features in order to make it more user friendly*
+©️ ask_senoiors team
